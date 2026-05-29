@@ -1,0 +1,1 @@
+En algunas de las rutas se encuentra ´´expres . json´, otros dicen servidor activo, otro dice " Hola comunidad", otro dice "nombre", servidor ejecutandose en puerto 3000,. "Hola Juan"
